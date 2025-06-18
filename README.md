@@ -1,4 +1,3 @@
-## Hello World! I'm Muhammad Ari Arfandi 👋
 ![Muhammad Ari Arfandi](github-header-image.png)
 
 <!--
