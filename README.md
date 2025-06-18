@@ -1,4 +1,5 @@
 ## Hello World! I'm Muhammad Ari Arfandi 👋
+![Muhammad Ari Arfandi](github-header-image.png)
 
 <!--
 **Arfandiii/Arfandiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
